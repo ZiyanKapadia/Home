@@ -1,0 +1,15 @@
+body,p
+{
+	background-color: AliceBlue;
+	font-size: 25px;
+	color: DarkBlue;
+} 
+.p1
+{
+	font-size: 30px;
+	color: DarkBlue;
+}
+h1
+{
+	text-align: center;
+}

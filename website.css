@@ -1,0 +1,19 @@
+h1
+{
+    color: White;
+	text-align: center;
+}
+body,p
+{
+	background-color: #9F9AA4;
+	font-size: 25px;
+	color: White;
+} 
+.image01
+{
+	border-radius: 25px;
+}
+.image02
+{
+	border-radius: 25px;
+}

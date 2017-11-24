@@ -1,0 +1,35 @@
+body,p
+{
+	background-color: SpermWhite;
+	font-size: 25px;
+	color: blue;
+} 
+.tr01
+{
+	background-color:#8A2BE2;
+	color:white;
+	font-weight:900;
+	border-color:#8A2BE2;
+}
+.tr02
+{
+	background-color:#8A2BE2;
+	color:white;
+	font-weight:900;
+	border-color:#8A2BE2;
+}
+table
+{
+	width:70%;
+}
+.tr03
+{
+	background-color:#8A2BE2;
+	color:white;
+	font-weight:900;
+	border-color:#8A2BE2;
+}
+h1
+{
+	text-align: center;
+}
